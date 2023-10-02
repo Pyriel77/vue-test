@@ -1,4 +1,4 @@
-const data = [
+export const eventData = [
   {
     name: 'FGC',
     from: '2020-03-10',
